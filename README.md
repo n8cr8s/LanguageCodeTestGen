@@ -19,6 +19,7 @@ Set the OPENAPI_KEY to the value above.  Then run the application.
 
 Execute the following commands:
 ```
+pip install -r requirements.txt
 export OPENAPI_KEY=<OPEN API KEY>
 python main.py 
 ```
